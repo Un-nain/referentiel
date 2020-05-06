@@ -4,7 +4,7 @@
 
 >Un fabuleu jeu en QT qui consiste a aller le plus vite possible a la ligne d'arrivé, le meilleur score est enregistrer ce qui augmente l'envie d'aller toujours plus vite.
 Les flèches directionnel gauche et droite font accéléré le personnage de manière linéaire. Flèche haut fait sauter le personnage enfin la flèche bas stop la vitesse horizontal pour faire des mouvements de précision.
-<br>Voir ci dessous pour le fonctionnement des déplacements.
+<br>Voir ci dessous pour le fonctionnement des déplacements (la flèche gauche fais de même que la doite mais en sens contraire).
 
 ## Échantillons de code
 
